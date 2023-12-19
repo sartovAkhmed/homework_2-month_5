@@ -1,0 +1,12 @@
+
+
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    .nav {
+        ul {
+            gap: 10px;
+            display: flex;
+        }
+    }
+}
